@@ -7,7 +7,6 @@ Overview
 This pipeline takes filtered CSV output from a trained DeepLabCut model and extracts standard EPM behavioral metrics including zone occupancy, arm entries, and habituation effects. It was developed as part of a validation study comparing automated tracking to frame-by-frame manual behavioral coding in Sprague-Dawley rats.
 
 Pipeline Overview
-```
 DLC filtered CSV output
         │
         ▼
